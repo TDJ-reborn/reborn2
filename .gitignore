@@ -25,6 +25,7 @@ Shop/
 *.RAR
 *.ZIP
 *.EXE
+*.XLSX
 *.DOC
 *.DOCX
 *.LOG
