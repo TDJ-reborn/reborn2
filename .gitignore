@@ -5,7 +5,8 @@
 Camp/
 jre1.8.0_161/
 Face/
-Magic/
+/Magic/*
+!/Magic/magic09*
 Movie/
 Music/
 SAVES/
