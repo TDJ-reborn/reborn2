@@ -4,7 +4,6 @@
 
 Camp/
 jre1.8.0_161/
-Face/
 /Magic/*
 !/Magic/magic09*
 Movie/
@@ -18,6 +17,11 @@ Shop/
 !/Sprite/man009
 !/Sprite/man156
 !/Sprite/man163
+/Face/Face*
+!/Face/Face52.saf
+!/Face/Face53.saf
+!/Face/Face54.saf
+!/Face/Face55.saf
 #/////////////////////////////////////////////////////////////////////////////
 # saves
 #/////////////////////////////////////////////////////////////////////////////
